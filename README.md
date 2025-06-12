@@ -43,3 +43,16 @@ I'm Rakshitha Meleyyanavar, a B.E. Computer Science student currently exploring:
 ✅ Code completed
 ✅ Tested on webcam
 🛠️ Open for improvements!
+COLOR INTERACTION PANEL ![Screenshot 2025-06-05 125201](https://github.com/user-attachments/assets/4e48c7a5-9632-40a3-a88a-bd59a4d99966)
+![Screenshot 2025-06-05 124804](https://github.com/user-attachments/assets/88dee5d0-7e08-4d1b-9228-10d1fa27df9a)
+![Screenshot 2025-06-05 123556](https://github.com/user-attachments/assets/276071c5-0fac-4106-912b-c93a2f045387)
+
+![Screenshot 2025-06-05 115549](https://github.com/user-attachments/assets/923b0b0d-66de-4bab-b7ce-7ad0be5ff5bf)
+
+
+![Screenshot 2025-06-05 102602](https://github.com/user-attachments/assets/07113ddb-ab76-42ae-a5ea-60a657628831)
+
+![Screenshot 2025-06-05 115125](https://github.com/user-attachments/assets/dd40acb8-6505-43fb-9925-bc18f8553599)
+
+📸 Added project demo screenshot to README
+
